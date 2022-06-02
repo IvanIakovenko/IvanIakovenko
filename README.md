@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanIakovenko
-- 👀 I’m interested in web development, blockchain
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Laravel, PHP, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
